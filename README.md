@@ -23,10 +23,10 @@ Model Accuracy: The accuracy of the selected model on the test dataset is 83.33%
 Feature Importance: The importance of each feature in predicting the loan status is analyzed.
 Prediction Visualization: The predicted vs actual loan statuses are visualized to assess the model's performance.
 ## Conclusion
-The selected Logistic Regression model achieved an accuracy of X.XX% on the test dataset. This result indicates that the model is capable of accurately predicting the loan status based on the input features. The analysis of feature importance suggests that certain factors, such as credit history and employment information, play a significant role in determining loan approval.
+The selected Logistic Regression model achieved an accuracy of 83.33% on the test dataset. This result indicates that the model is capable of accurately predicting the loan status based on the input features. The analysis of feature importance suggests that certain factors, such as credit history and employment information, play a significant role in determining loan approval.
 
 By implementing this model, financial institutions can make more informed decisions regarding loan approvals, ultimately reducing risk and enhancing profitability.
 
 ## Acknowledgements
-The dataset used in this project is available from [source if applicable]. Special thanks to the creators of this dataset for providing the data.
+The dataset used in this project is available from Kaggle. Special thanks to the creators of this dataset for providing the data.
 
