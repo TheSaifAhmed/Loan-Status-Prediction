@@ -1,6 +1,6 @@
 # Loan-Status-Prediction
 ## Project Overview
-This project involves building a machine learning model to predict the status of loan applications. Accurate prediction of loan status can help financial institutions in their decision-making process, allowing them to minimize risk and maximize profit.
+This project involves building a SVM (Support Vector Mcahine) machine learning model to predict the status of loan applications. Accurate prediction of loan status can help financial institutions in their decision-making process, allowing them to minimize risk and maximize profit.
 
 ## Dataset
 The dataset used in this project includes various features related to loan applicants, such as their demographic details, employment information, credit history, and loan amount. The target variable is the loan status, which indicates whether a loan was approved or not.
@@ -23,7 +23,7 @@ Model Accuracy: The accuracy of the selected model on the test dataset is 83.33%
 Feature Importance: The importance of each feature in predicting the loan status is analyzed.
 Prediction Visualization: The predicted vs actual loan statuses are visualized to assess the model's performance.
 ## Conclusion
-The selected Logistic Regression model achieved an accuracy of 83.33% on the test dataset. This result indicates that the model is capable of accurately predicting the loan status based on the input features. The analysis of feature importance suggests that certain factors, such as credit history and employment information, play a significant role in determining loan approval.
+The selected SVM model achieved an accuracy of 83.33% on the test dataset. This result indicates that the model is capable of accurately predicting the loan status based on the input features. The analysis of feature importance suggests that certain factors, such as credit history and employment information, play a significant role in determining loan approval.
 
 By implementing this model, financial institutions can make more informed decisions regarding loan approvals, ultimately reducing risk and enhancing profitability.
 
