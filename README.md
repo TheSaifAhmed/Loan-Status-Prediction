@@ -1,6 +1,6 @@
 # Loan-Status-Prediction
 ## Project Overview
-This project involves building a SVM (Support Vector Mcahine) machine learning model to predict the status of loan applications. Accurate prediction of loan status can help financial institutions in their decision-making process, allowing them to minimize risk and maximize profit.
+This project involves building a SVM (Support Vector Machine) machine learning model to predict the status of loan applications. Accurate prediction of loan status can help financial institutions in their decision-making process, allowing them to minimize risk and maximize profit.
 
 ## Dataset
 The dataset used in this project includes various features related to loan applicants, such as their demographic details, employment information, credit history, and loan amount. The target variable is the loan status, which indicates whether a loan was approved or not.
