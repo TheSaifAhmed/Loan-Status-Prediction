@@ -20,8 +20,8 @@ Performance Metrics: The models' performance is evaluated on the test dataset us
 Model Selection: The best-performing model is selected based on the evaluation metrics.
 ### 4. Results and Analysis
 Model Accuracy: The accuracy of the selected model on the test dataset is 83.33%.
+
 Feature Importance: The importance of each feature in predicting the loan status is analyzed.
-Prediction Visualization: The predicted vs actual loan statuses are visualized to assess the model's performance.
 ## Conclusion
 The selected SVM model achieved an accuracy of 83.33% on the test dataset. This result indicates that the model is capable of accurately predicting the loan status based on the input features. The analysis of feature importance suggests that certain factors, such as credit history and employment information, play a significant role in determining loan approval.
 
